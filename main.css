@@ -10,10 +10,18 @@
 .item-4 {
   width: 64px; }
 
+p {
+  background-color: pink;
+  color: white;
+  border: 1px solid pink;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold; }
+
 .btn {
   width: 200px;
   height: 100px;
-  color: #e84610;
   border: 1px solid #e84610;
   color: #fff; }
 
